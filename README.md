@@ -1,1 +1,1 @@
-# Starred-Repo-Query
+# Stared-Repo-Query
